@@ -15,5 +15,5 @@ This project analyzes IMDb movie data to uncover insights into audience preferen
 - Key Insights: Explored relationships between variables like budget, ratings, and audience preferences.
 - Recommendations: Actionable insights for the movie industry based on findings.
 
-Acknowledgments
+## Acknowledgments
 I would like to thank to my teammates, Shumokh Alhattami and Deema Hamidah for their collaboration and valuable contributions.
